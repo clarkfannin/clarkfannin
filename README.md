@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+<pre>
+   ________           __      ______                  _     
+  / ____/ /___ ______/ /__   / ____/___ _____  ____  (_)___
+ / /   / / __ `/ ___/ //_/  / /_  / __ `/ __ \/ __ \/ / __ \
+/ /___/ / /_/ / /  / ,<    / __/ / /_/ / / / / / / / / / / /
+\____/_/\__,_/_/  /_/|_|  /_/    \__,_/_/ /_/_/ /_/_/_/ /_/
+</pre>
+</div>
 
-<!--
-**clarkfannin/clarkfannin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<div><strong>Thanks for checking out my GitHub!</strong></div>
+<p>If you'd like to reach out regarding any of my projects, you can reach me at <a href="clarkfannin.dev@gmail.com">clarkfannin.dev@gmail.com</a>.</p>
+<p>Feel free to also check out my personal website: <a href="clarkfannin.com">clarkfannin.com</a></p>
+</div>
