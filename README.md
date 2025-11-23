@@ -7,10 +7,9 @@
 \____/_/\__,_/_/  /_/|_|  /_/    \__,_/_/ /_/_/ /_/_/_/ /_/
 </pre>
 </div>
-
 <div align="center">
 <p><strong>Thanks for checking out my GitHub!</strong></p>
-<p>If you'd like to reach out regarding any of my projects, you can reach me at <a href="clarkfannin.dev@gmail.com">clarkfannin.dev@gmail.com</a>.</p>
-<p>Feel free to also check out my personal website: <a href="clarkfannin.com">clarkfannin.com</a></p>
+<p>If you'd like to reach out regarding any of my projects, you can reach me at <a href="mailto:clarkfannin.dev@gmail.com">clarkfannin.dev@gmail.com</a>.</p>
+<p>Feel free to also check out my personal website: <a href="https://clarkfannin.com">clarkfannin.com</a></p>
 <img src="jetpackcat.png" width="50px">
 </div>
